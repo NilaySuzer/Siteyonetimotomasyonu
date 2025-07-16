@@ -1,4 +1,4 @@
-# Site Yonetim Otomasyonu
+# Site Yönetim Otomasyonu
 
 
 Bu proje, site yöneticilerinin site yönetimlerini; sakinlerin de site ile ilgili işlemlerini kolay bir şekilde yapmasını sağlamak için geliştirilmiş web tabanlı bir  **Site Yönetim Otomasyon** sistemidir.
